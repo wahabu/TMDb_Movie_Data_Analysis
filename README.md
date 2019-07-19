@@ -5,6 +5,7 @@ This Project for Udacity course of Data Analysis Nonodgree. Second Project
 Project: TMDb Movie Data Analysis
 
 ## Introduction
+
 We always find behind each art or product someone who works with infatuation and passion and shows to us what we do not see, therefore the author is that person who has a great interest in films and watching. And He asks us:
 What shows us whether the film is good or bad? there are should be factors that influence this. Through that, I tried to present something good through this project and find some a logical analysis that adds some good notes and I present them to author.
 
@@ -13,6 +14,7 @@ A note specifying which dataset you analyzed
 Depending on link of Google doc. Then, I chose TMDb movie data. This data set contains information more than 10,000 movies collected from The Movie Database (TMDb), including user ratings and revenue.
 
 ## Attribute Information
+
 In the beginning, I knew the dataset, and then to questin what it was written and what the head of each column was and what if we could discover and see logical information, for example the value of revenue each movies in the year of issue etc. therefore decided my steps the following:
 
 Input varibles
@@ -42,6 +44,7 @@ A statement of the question(s) you posed
 I set brainstorming session some questions I could answer using the data set I chose, then I start answering those questions.
 
 ## Questions To Answer:
+
 * What are ten movies Vs highest profit for each one?
 * We note Avatar movie is top one of profit where is more than billion and half.
 * Which movie title had the longest run time?
@@ -76,6 +79,7 @@ Top runtime movie
 |705 | Band of Brothers |
 
 References and Citations
+
 1.https://mode.com/example-gallery/python_horizontal_bar/
 2.https://stackoverflow.com/search?q=sort+number+with+df+python
 3.https://pandas.pydata.org/pandas-docs/stable/getting_started/basics.html?highlight=delete%20row
