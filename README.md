@@ -78,11 +78,16 @@ Top runtime movie
 | ------ | ------ |
 |705 | Band of Brothers |
 
-References and Citations
+## References and Citations:
 
 1.https://mode.com/example-gallery/python_horizontal_bar/
+
 2.https://stackoverflow.com/search?q=sort+number+with+df+python
+
 3.https://pandas.pydata.org/pandas-docs/stable/getting_started/basics.html?highlight=delete%20row
+
 4.https://stackoverflow.com/questions/11285613/selecting-multiple-columns-in-a-pandas-dataframe
+
 5.https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.plot.bar.html
+
 6.https://stackoverflow.com/questions/26139423/plot-different-color-for-different-categorical-levels-using-matplotlib
